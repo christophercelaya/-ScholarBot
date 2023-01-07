@@ -52,9 +52,9 @@ const Home = () => {
             <br></br>
             <h3> prompt - a prompt is a short description in the english language that acts as inputs for AI generators</h3>
             <br></br>
-            <h4> Please create your prompt in this format.</h4>
+            <h4> Please create your prompt in the format below. 👇🏼</h4>
             
-            <p>Title: What subject are you passionate for?<br /> University: Name of institution <br /> Course of Study: <br /></p>
+            <p>Title: Topic: Description<br /> University: Name of institution <br /> Course of Study: <br /></p>
           </div>
         </div>
         <div className="prompt-container">
